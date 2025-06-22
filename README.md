@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently looking for a Data Analyst Intern position.  <br>Have done my internships with Intellipaat and KultureHire. <br>At present doing internship as Data Analyst Intern with Scaler <br>Consultancy. <br>Am a young man only 70 years old and keen on improving my skills <br>in data analysis, SQL queries and Python. <br>Keep updating my skills on Power BI, Tableau and SQL servers.   <br>Produced a number of projects in both Power BI and SQL. 
+I am currently looking for a Data Analyst Intern position.  <br>Have done my internships with Intellipaat and KultureHire. <br>At present doing internship as Data Analyst Intern with Scaler <br>Consultancy. <br>Am a young man only 70 years and keen on improving my skills <br>in data analysis, SQL queries and Python. <br>Keep updating my skills on Power BI, Tableau and SQL servers.   <br>Produced a number of projects in both Power BI and SQL. 
 
 
 ## 🌐 Socials:
